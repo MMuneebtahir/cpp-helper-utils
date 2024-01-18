@@ -1,9 +1,11 @@
 # **cpp-helper-utils**
 ## **DEVICE**
 Linux Computer
-##**PROGRAMMING LANGUAGE**
+
+## **PROGRAMMING LANGUAGE**
 - C++/C
-##**TARGETED OS**
+  
+## **TARGETED OS**
 - Ubuntu Linux 18.04
 ## **PREREQUISITES**
 		sudo apt install git cmake g++  gcc
@@ -13,7 +15,8 @@ Linux Computer
 		cmake --version
 		git --version
 ## **DEVELOPMENT**
-###**Project Stucture**
+
+###	**Project Structure**
 
 <pre>
 |── cpp-helper-utils
@@ -24,8 +27,10 @@ Linux Computer
 │   │   │   └── Handout
 </pre>
 
-### **Developer**
+###	**Developer**
+
 - Muneeb
+
 ## **REFERENCES**
 1. 	https://www.youtube.com/watch?v=zuegQmMdy8M
 
